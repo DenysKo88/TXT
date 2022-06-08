@@ -1,1 +1,18 @@
-
+Bug ID: порядковый номер
+Summary: Описание проблемы (заголовок)
+Severity:
+ -Blocker;
+ -Critical;
+ -Major;
+ -Minor;
+ -Trivial.
+ Priority:
+  -High;
+  -Medium;
+  -Low.
+ Enviroment: окружение, где был обнаружен баг
+ Precondition: предусловие для бага
+ StepToReproduce: шаги воспроизведения бага
+ ActualResult: фактический результат
+ ExpectedResult: ожидаемый результат
+ Attachments: видео или скриншот, подтверждающие проблему
