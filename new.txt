@@ -1,0 +1,4 @@
+Name: Denys Kolomiiets
+Age: 33
+Number of pets: 1 (a cat)
+Desire salary: 2000$
