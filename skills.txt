@@ -1,0 +1,7 @@
+Future skills:
+-web testing;
+-mobile testing;
+-git bash;
+-linux;
+-SQL;
+-jmeter.

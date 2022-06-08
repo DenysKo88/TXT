@@ -1,0 +1,5 @@
+movie: Pulp Fiction
+TVshow: Chornobyl
+food: BBQ
+season: Autumn
+country: Iceland
